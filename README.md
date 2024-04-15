@@ -2,20 +2,35 @@
 ## PROBLEM STATEMENT
 
 "#" - ID (unique. number)
+
 "Company" - name of the company
+
 "Location_HQ" - Location of headquarter of the company
+
 "Country" - Country, where the headquarter is located
+
 "Continent" - Continent, where the headquarter is located
-"Laid_Off" - number of people, who where laid of
+
+"Laid_Off" - number of people, who where laid off
+
 "Date_layoffs" - date of layoffs
+
 "Percentage" - Percentage of layoffs compared to total company size
+
 "Company_Size_before_Layoffs" -
+
 "Company_Size_after_layoffs"
+
 "Industry" - Industry the company is in
+
 "Stage" - Stage of company (private, public etc)
+
 "Money_Raised_in_$_mil"
+
 "Year" - Year of layoffs
+
 "lat" - Latitude of headquarter
+
 "lng" - longitude of headquarter
 
 ## DESCRIPTION AND INSIGHTS
